@@ -8,8 +8,8 @@ GRIP Web developement and design internship JUNE'21 . Tech used : Front-end : HT
 
 After website created there is a simple donate button on homepage. On clicking 
 the donate button, the user will land on the payment page where 
-user can select the amount to be paidOnce the payment is done and invoice will be generated and 
+user can select the amount to be paid.Once the payment is done and invoice will be generated and 
 email will be sent to the user for the payment received. The 
-invoice will contain the amount.
+invoice will contain the reciept of amount.
 
 
