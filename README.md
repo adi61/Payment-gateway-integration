@@ -1,10 +1,10 @@
 Payment Gateway Integration
 
 
-#TASK2 : PAYMENT GATEWAY INTEGRATION  , #GRIPMAY21  ,  #TSF  ,  #TASK2
+#TASK3 : PAYMENT GATEWAY INTEGRATION  , #GRIPJUNE21  ,  #TSF  ,  #TASK3
 
 
-GRIP Web developement and design internship MAY'21 . Tech used : Front-end : HTML,CSS & BOOTSTRAP and java script Back-end:PHP Payment gateway : razorpay
+GRIP Web developement and design internship JUNE'21 . Tech used : Front-end : HTML,CSS. Payment gateway : razorpay
 
 After website created there is a simple donate button on homepage. On clicking 
 the donate button, the user will land on the payment page where 
